@@ -32,6 +32,11 @@ public class UserServiceTest {
 	}
 	
 	@Test
+	public void testDetailUser() {
+		
+	}
+	
+	@Test
 	public void testConfig() {
 		assertThat(userService, notNullValue());
 	}
